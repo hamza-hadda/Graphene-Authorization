@@ -2,4 +2,4 @@ from django.apps import AppConfig
 
 
 class ProfsConfig(AppConfig):
-    name = 'profs'
+    name = 'myClasses.profs'
