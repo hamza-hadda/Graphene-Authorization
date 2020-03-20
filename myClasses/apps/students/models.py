@@ -1,4 +1,5 @@
 from django.db import models
+from apps.profs.apps import ProfsConfig
 
 # Create your models here.
 
